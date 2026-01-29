@@ -1,0 +1,20 @@
+* {
+    margin:0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-style: normal;
+}
+
+time{
+    display: block;
+    font-style: normal;
+}
+
+.comment{
+    margin-top: 1em;
+}
